@@ -1,0 +1,7 @@
+*.mp4
+.DS_Store
+*.mp3
+Libraries/
+Configuration/Workspace
+Playlists/
+Presets/
