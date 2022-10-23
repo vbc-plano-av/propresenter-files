@@ -3,5 +3,6 @@
 *.mp3
 Libraries/
 Configuration/Workspace
-Playlists/
+Playlists/*
+!Playlists/Media
 Presets/
