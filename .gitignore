@@ -6,3 +6,4 @@ Configuration/Workspace
 Playlists/*
 !Playlists/Media
 Presets/
+*.m4v
